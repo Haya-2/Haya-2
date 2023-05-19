@@ -5,3 +5,4 @@ I have an University diploma in Internet and Multimedia studies. <br>
 I’m interested in Travel, Sports, Informatics, Multimedia, Languages, Reading, Writing, Animation, Artistic creations. I love to code HTML / SCSS and JavaScript. <br>
 I'm still learning a lot in Informatics.
 
+[//]: # (Testing comments ...)  
