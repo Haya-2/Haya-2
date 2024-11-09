@@ -1,6 +1,6 @@
 # Hi, I'm @Haya-2 / Ayaya 👋
 
-Welcome to my GitHub! 
+Welcome to my GitHub!  
 I'm currently pursuing an **Informatics Ingénieur** degree at **ESIEE PARIS**. I hold a university diploma in **Internet and Multimedia Studies**. 
 
 ### 🚀 Interests:
@@ -27,7 +27,7 @@ I'm currently pursuing an **Informatics Ingénieur** degree at **ESIEE PARIS**. 
 - **Unity** 🕹️
 
 ### 🎯 Goals:
-I'm passionate about learning and constantly improving my skills in **Informatics**. 
+I'm passionate about learning and constantly improving my skills in **Informatics**.  
 I enjoy creating interactive web experiences and diving into new technologies.
 I want to keep a part of **art** into my informatics skills because I like them both!
 
